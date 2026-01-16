@@ -9,7 +9,6 @@ dependencies:
   - notebook>=7.4,<8
   - jupyter-resource-usage>=1,<2
   - jupyterlab-topbar-text >=1.1.0,<2
-  - jupyterlab-system-monitor
   - nodejs>=20
   # Python environment
   - python>=3.10,<3.13
