@@ -22,3 +22,5 @@ dependencies:
   - r-base>=4
   - r-tidyverse
   - r-markdown
+  - r-knitr
+  - r-tinytex
